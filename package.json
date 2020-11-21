@@ -7,9 +7,10 @@
   "license": "MIT",
   "scripts": {
     "build": "webpack --config webpack.prod.js",
+    "start": "webpack-dev-server --config webpack.dev.js",
     "test": "jest --passWithNoTests",
-    "lint": "eslint .",
-    "start": "webpack-dev-server --config webpack.dev.js"
+    "lint": "eslint ."
+  
   },
   "dependencies": {
     "core-js": "3",
