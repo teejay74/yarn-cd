@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/n4hqt5eyocemia0c?svg=true)](https://ci.appveyor.com/project/teejay74/yarn-cd)
